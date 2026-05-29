@@ -101,7 +101,7 @@ Hey! I'm **Chandu Reddy** — a passionate **Cyber Security Student** on a missi
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chandureddy-sec&theme=darkhub&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chandureddy-sec&theme=onedark&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
