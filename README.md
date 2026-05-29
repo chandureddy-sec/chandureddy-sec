@@ -98,11 +98,11 @@ Hey! I'm **Chandu Reddy** — a passionate **Cyber Security Student** on a missi
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chandureddy-sec&theme=onedark&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=chandureddy-sec&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
