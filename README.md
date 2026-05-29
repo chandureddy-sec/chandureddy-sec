@@ -4,7 +4,8 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chandureddy-sec&theme=onedark&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=Hey+There!+I'm+E+Chandu+Reddy+%F0%9F%91%8B;Cyber+Security+Student+%F0%9F%94%90;Think+Like+An+Attacker+%F0%9F%A7%A0;Defend+Like+A+Pro+%F0%9F%9B%A1%EF%B8%8F;Ethical+Hacker+In+The+Making+%F0%9F%92%BB)](https://git.io/typing-svg)
+
 
 </div>
 
