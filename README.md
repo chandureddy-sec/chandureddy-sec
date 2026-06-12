@@ -482,20 +482,6 @@ Pursuing an intensive, hands-on cybersecurity diploma at Craw Security — one o
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chandureddy-sec&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=6D28D9&text_color=C4B5FD" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandureddy-sec&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C4B5FD" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandureddy-sec&theme=midnight-purple&hide_border=true&background=0D1117&stroke=7C3AED&ring=6D28D9&fire=A78BFA&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=7C3AED&sideLabels=7C3AED&dates=6B7280" />
-</p>
-
----
-
 ## GitHub Trophies
 
 <p align="center">
