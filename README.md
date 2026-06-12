@@ -1,24 +1,24 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chandu%20Reddy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20Engineer%20%7C%20Penetration%20Tester%20%7C%20VAPT%20Specialist&descAlignY=52&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0_284b63_3c6e71_353535&height=180&section=header&text=Chandu%20Reddy&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20Engineer%20%7C%20Penetration%20Tester%20%7C%20VAPT%20Specialist&descAlignY=52&descAlign=50" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Think+like+an+attacker%2C+work+like+a+defender.;VAPT+%7C+Web+App+Security+%7C+Network+Pentesting;Active+Directory+Attacks+%7C+Red+Teaming;OWASP+Top+10+%7C+Threat+Analysis+%7C+CVSS;Open+to+Security+Roles+%7C+Internships+%7C+Collaboration" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=3c6e71&center=true&vCenter=true&width=750&lines=Think+like+an+attacker%2C+work+like+a+defender.;VAPT+%7C+Web+App+Security+%7C+Network+Pentesting;Active+Directory+Attacks+%7C+Red+Teaming;OWASP+Top+10+%7C+Threat+Analysis+%7C+CVSS;Open+to+Security+Roles+%7C+Internships+%7C+Collaboration" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Cybersecurity-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/B.Tech-Cybersecurity-284b63?style=for-the-badge&logo=graduation-cap&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Trained%20At-Craw%20Security%2C%20Hyderabad-4C1D95?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trained%20At-Craw%20Security%2C%20Hyderabad-353535?style=for-the-badge&logo=shield&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-6D28D9?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-3c6e71?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
 
 <p align="center">
   <a href="https://chandureddy-sec.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-chandureddy--sec.github.io-7C3AED?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-chandureddy--sec.github.io-284b63?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/chandureddy7">
@@ -35,11 +35,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chandureddy-sec&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=chandureddy-sec&label=Profile%20Views&color=284b63&style=for-the-badge" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/chandureddy-sec?label=Followers&style=for-the-badge&color=6D28D9&logo=github" />
+  <img src="https://img.shields.io/github/followers/chandureddy-sec?label=Followers&style=for-the-badge&color=3c6e71&logo=github" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/chandureddy-sec?label=Stars&style=for-the-badge&color=4C1D95&logo=github" />
+  <img src="https://img.shields.io/github/stars/chandureddy-sec?label=Stars&style=for-the-badge&color=353535&logo=github" />
 </p>
 
 ---
@@ -78,7 +78,7 @@ I combine scripting proficiency in **Python and Bash** with deep tool knowledge 
 
 <p align="center"><strong>Penetration Testing & VAPT Tools</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Metasploit-2A2A72?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-284b63?style=for-the-badge&logo=metasploit&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" />
   &nbsp;
@@ -88,35 +88,35 @@ I combine scripting proficiency in **Python and Bash** with deep tool knowledge 
   &nbsp;
   <img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=mysql&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-353535?style=for-the-badge&logo=owasp&logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Nikto-6D28D9?style=for-the-badge&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nikto-3c6e71?style=for-the-badge&logo=gnu&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Hydra-7C3AED?style=for-the-badge&logo=key&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hydra-284b63?style=for-the-badge&logo=key&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/John%20the%20Ripper-4C1D95?style=for-the-badge&logo=lock&logoColor=white" />
+  <img src="https://img.shields.io/badge/John%20the%20Ripper-353535?style=for-the-badge&logo=lock&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Hashcat-5B21B6?style=for-the-badge&logo=hashnode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hashcat-3c6e71?style=for-the-badge&logo=hashnode&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Gobuster-6D28D9?style=for-the-badge&logo=searchengineland&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gobuster-3c6e71?style=for-the-badge&logo=searchengineland&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Netcat-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netcat-353535?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
 <p align="center"><strong>Active Directory & Post-Exploitation</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/BloodHound-CC0000?style=for-the-badge&logo=bloodhound&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Mimikatz-4C1D95?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mimikatz-353535?style=for-the-badge&logo=windows&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Impacket-7C3AED?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Impacket-284b63?style=for-the-badge&logo=python&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/CrackMapExec-5B21B6?style=for-the-badge&logo=network&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrackMapExec-3c6e71?style=for-the-badge&logo=network&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/MSFVenom-2A2A72?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSFVenom-284b63?style=for-the-badge&logo=metasploit&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/PowerSploit-6D28D9?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerSploit-3c6e71?style=for-the-badge&logo=powershell&logoColor=white" />
 </p>
 
 <p align="center"><strong>Network Analysis & Traffic Inspection</strong></p>
@@ -131,44 +131,44 @@ I combine scripting proficiency in **Python and Bash** with deep tool knowledge 
   &nbsp;
   <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Ettercap-7C3AED?style=for-the-badge&logo=ethernet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ettercap-284b63?style=for-the-badge&logo=ethernet&logoColor=white" />
 </p>
 
 <p align="center"><strong>Web Application Security</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/OWASP%20Top%2010-7C3AED?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP%20Top%2010-284b63?style=for-the-badge&logo=owasp&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/XSS-CC0000?style=for-the-badge&logo=html5&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/SQLi-4C1D95?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLi-353535?style=for-the-badge&logo=mysql&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/IDOR-6D28D9?style=for-the-badge&logo=lock&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDOR-3c6e71?style=for-the-badge&logo=lock&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/SSRF-5B21B6?style=for-the-badge&logo=server&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSRF-3c6e71?style=for-the-badge&logo=server&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Broken%20Access%20Control-7C3AED?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Broken%20Access%20Control-284b63?style=for-the-badge&logo=shield&logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/API%20Security%20Testing-2A2A72?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/API%20Security%20Testing-284b63?style=for-the-badge&logo=postman&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Session%20Management-4C1D95?style=for-the-badge&logo=key&logoColor=white" />
+  <img src="https://img.shields.io/badge/Session%20Management-353535?style=for-the-badge&logo=key&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Authentication%20Testing-6D28D9?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/Authentication%20Testing-3c6e71?style=for-the-badge&logo=auth0&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/TLS%2FSSL-000000?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+  <img src="https://img.shields.io/badge/TLS%2FSSL-353535?style=for-the-badge&logo=letsencrypt&logoColor=white" />
 </p>
 
 <p align="center"><strong>OSINT & Reconnaissance</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/theHarvester-7C3AED?style=for-the-badge&logo=search&logoColor=white" />
+  <img src="https://img.shields.io/badge/theHarvester-284b63?style=for-the-badge&logo=search&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Maltego-000000?style=for-the-badge&logo=maltego&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maltego-353535?style=for-the-badge&logo=maltego&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Recon--ng-4C1D95?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Recon--ng-353535?style=for-the-badge&logo=python&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Shodan-CC0000?style=for-the-badge&logo=shodan&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/WHOIS%2FDNSRecon-6D28D9?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/WHOIS%2FDNSRecon-3c6e71?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
 
 <p align="center"><strong>Networking Protocols & Concepts</strong></p>
@@ -177,35 +177,35 @@ I combine scripting proficiency in **Python and Bash** with deep tool knowledge 
   &nbsp;
   <img src="https://img.shields.io/badge/OSI%20Model-1679A7?style=for-the-badge&logo=cisco&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/DNS-7C3AED?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/DNS-284b63?style=for-the-badge&logo=cloudflare&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/DHCP%2FNAT-4C1D95?style=for-the-badge&logo=router&logoColor=white" />
+  <img src="https://img.shields.io/badge/DHCP%2FNAT-353535?style=for-the-badge&logo=router&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/VLAN%2FRouting-5B21B6?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/VLAN%2FRouting-3c6e71?style=for-the-badge&logo=cisco&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Subnetting-6D28D9?style=for-the-badge&logo=network&logoColor=white" />
+  <img src="https://img.shields.io/badge/Subnetting-3c6e71?style=for-the-badge&logo=network&logoColor=white" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTTP%2FHTTPS-FF6633?style=for-the-badge&logo=http&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/SSH%2FSMB%2FFTP-000000?style=for-the-badge&logo=terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSH%2FSMB%2FFTP-353535?style=for-the-badge&logo=terminal&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Packet%20Analysis-2A2A72?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Packet%20Analysis-284b63?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
 <p align="center"><strong>Frameworks, Standards & Platforms</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/PTES-7C3AED?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/PTES-284b63?style=for-the-badge&logo=shield&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/OWASP%20Testing%20Guide-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP%20Testing%20Guide-353535?style=for-the-badge&logo=owasp&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/CVSS-CC0000?style=for-the-badge&logo=nvd&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-4C1D95?style=for-the-badge&logo=mitre&logoColor=white" />
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-353535?style=for-the-badge&logo=mitre&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Cyber%20Risk%20Reviews-6D28D9?style=for-the-badge&logo=checklist&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cyber%20Risk%20Reviews-3c6e71?style=for-the-badge&logo=checklist&logoColor=white" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
@@ -370,9 +370,9 @@ Participated in a hands-on ethical hacking hackathon, performing live VAPT again
 <p>
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Web%20App%20VAPT-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Network%20Analysis-6D28D9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Report%20Writing-5B21B6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Web%20App%20VAPT-284b63?style=flat-square" />
+  <img src="https://img.shields.io/badge/Network%20Analysis-3c6e71?style=flat-square" />
+  <img src="https://img.shields.io/badge/Report%20Writing-3c6e71?style=flat-square" />
   <img src="https://img.shields.io/badge/Broken%20Auth-CC0000?style=flat-square" />
 </p>
 
@@ -396,13 +396,13 @@ Pursuing an intensive, hands-on cybersecurity diploma at Craw Security — one o
 - Working through practical lab scenarios covering web, network, and system-level attack surfaces
 
 <p>
-  <img src="https://img.shields.io/badge/Ethical%20Hacking-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Penetration%20Testing-6D28D9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-284b63?style=flat-square" />
+  <img src="https://img.shields.io/badge/Penetration%20Testing-3c6e71?style=flat-square" />
   <img src="https://img.shields.io/badge/Nessus-00C176?style=flat-square" />
   <img src="https://img.shields.io/badge/Nmap-0E83CD?style=flat-square" />
-  <img src="https://img.shields.io/badge/Linux%20Admin-5B21B6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cyber%20Risk%20Management-4C1D95?style=flat-square" />
-  <img src="https://img.shields.io/badge/OWASP%20Top%2010-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Linux%20Admin-3c6e71?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cyber%20Risk%20Management-353535?style=flat-square" />
+  <img src="https://img.shields.io/badge/OWASP%20Top%2010-284b63?style=flat-square" />
 </p>
 
 ---
@@ -427,16 +427,40 @@ Pursuing an intensive, hands-on cybersecurity diploma at Craw Security — one o
 
 ## Certifications
 
-<p align="center"><strong>Craw Security</strong></p>
+<p align="center"><strong>Craw Security — Cyber Research and Analysis Wing</strong></p>
+
+<div align="center">
+
+| Certificate | Cert No. | Issued | Verify |
+|:---|:---:|:---:|:---:|
+| **Ethical Hacking & Countermeasures** | CRAWEN-68278663 | 04 May 2026 | [🔗 Verify](https://craw.in/verify) |
+| **In-Depth Advanced Networking** | CRAWEN-68278663 | 15 Jan 2026 | [🔗 Verify](https://craw.in/verify) |
+| **Linux Essential Training** | CRAWEN-68278663 | 01 Nov 2025 | [🔗 Verify](https://craw.in/verify) |
+
+</div>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Ethical%20Hacking-Diploma%20Training-7C3AED?style=for-the-badge&logo=shield&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Linux%20Essentials-Craw%20Security-6D28D9?style=for-the-badge&logo=linux&logoColor=white" />
+  <a href="https://craw.in/verify">
+    <img src="https://img.shields.io/badge/Ethical%20Hacking%20%26%20Countermeasures-Craw%20Security%20%7C%20May%202026-284b63?style=for-the-badge&logo=shield&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://craw.in/verify">
+    <img src="https://img.shields.io/badge/In--Depth%20Advanced%20Networking-Craw%20Security%20%7C%20Jan%202026-3c6e71?style=for-the-badge&logo=cisco&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://craw.in/verify">
+    <img src="https://img.shields.io/badge/Linux%20Essential%20Training-Craw%20Security%20%7C%20Nov%202025-3c6e71?style=for-the-badge&logo=linux&logoColor=white" />
+  </a>
 </p>
 
 <p align="center"><strong>Google / Coursera</strong></p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Google-Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <a href="https://coursera.org/verify/VBLMFXRDH6JA">
+    <img src="https://img.shields.io/badge/Foundations%20of%20Cybersecurity-Google%20%7C%20Coursera%20%7C%20Nov%202023-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
 </p>
 
 <p align="center"><strong>Cisco / Networking</strong></p>
@@ -485,7 +509,7 @@ Pursuing an intensive, hands-on cybersecurity diploma at Craw Security — one o
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chandureddy-sec&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chandureddy-sec&theme=flat&no-frame=true&no-bg=false&background=353535&title=3c6e71&icon=284b63&text=d9d9d9&border=353535&column=7&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 </p>
 
 ---
@@ -493,7 +517,7 @@ Pursuing an intensive, hands-on cybersecurity diploma at Craw Security — one o
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandureddy-sec&bg_color=0D1117&color=7C3AED&line=6D28D9&point=A78BFA&area=true&area_color=4C1D95&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandureddy-sec&bg_color=353535&color=3c6e71&line=284b63&point=d9d9d9&area=true&area_color=284b63&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
 </p>
 
 ---
@@ -543,7 +567,7 @@ current_focus:
   </a>
   &nbsp;
   <a href="https://chandureddy-sec.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-284b63?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
 
@@ -554,5 +578,5 @@ current_focus:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0_284b63_3c6e71_353535&height=120&section=footer&animation=twinkling" />
 </p>
