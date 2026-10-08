@@ -1,7 +1,7 @@
 <p><img src="assets/banner.png" alt="E Chandu Reddy. SOC analyst (L1) in Hyderabad, open to SOC, VAPT and junior pentest roles. How I work an alert: alert, context, evidence, verdict, record." width="100%"></p>
 
 <p>
-<a href="https://chandureddy-sec.github.io"><img src="assets/btn-portfolio.png" alt="Portfolio" height="46"></a>&ensp;<a href="https://www.linkedin.com/in/chandureddy7"><img src="assets/btn-linkedin.png" alt="LinkedIn" height="46"></a>&ensp;<a href="https://chandureddy-sec.github.io/resume.pdf"><img src="assets/btn-resume.png" alt="Résumé (PDF)" height="46"></a>&ensp;<a href="mailto:chandureddyeddala@gmail.com"><img src="assets/btn-email.png" alt="Email me" height="46"></a>
+<a href="https://chandureddy-sec.github.io"><img src="assets/btn-portfolio.png" alt="Portfolio" height="46"></a>&ensp;<a href="https://www.linkedin.com/in/chandureddy-sec"><img src="assets/btn-linkedin.png" alt="LinkedIn" height="46"></a>&ensp;<a href="https://chandureddy-sec.github.io/resume.pdf"><img src="assets/btn-resume.png" alt="Résumé (PDF)" height="46"></a>&ensp;<a href="mailto:chandureddyeddala@gmail.com"><img src="assets/btn-email.png" alt="Email me" height="46"></a>
 </p>
 
 ## Right now
