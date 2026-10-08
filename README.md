@@ -1,11 +1,8 @@
-# E Chandu Reddy
+<p><img src="assets/banner.png" alt="E Chandu Reddy. SOC analyst (L1) in Hyderabad, open to SOC, VAPT and junior pentest roles. How I work an alert: alert, context, evidence, verdict, record." width="100%"></p>
 
-SOC analyst (L1) in Hyderabad. I work the alert queue by day and build attack labs to learn what causes the alerts. I'm looking for my next role in SOC, VAPT or junior penetration testing.
-
-**Portfolio:** [chandureddy-sec.github.io](https://chandureddy-sec.github.io)
-**LinkedIn:** [chandureddy7](https://www.linkedin.com/in/chandureddy7)
-**Email:** [chandureddyeddala@gmail.com](mailto:chandureddyeddala@gmail.com)
-**Résumé:** [PDF](https://chandureddy-sec.github.io/resume.pdf)
+<p>
+<a href="https://chandureddy-sec.github.io"><img src="assets/btn-portfolio.png" alt="Portfolio" height="46"></a>&ensp;<a href="https://www.linkedin.com/in/chandureddy7"><img src="assets/btn-linkedin.png" alt="LinkedIn" height="46"></a>&ensp;<a href="https://chandureddy-sec.github.io/resume.pdf"><img src="assets/btn-resume.png" alt="Résumé (PDF)" height="46"></a>&ensp;<a href="mailto:chandureddyeddala@gmail.com"><img src="assets/btn-email.png" alt="Email me" height="46"></a>
+</p>
 
 ## Right now
 
@@ -15,31 +12,43 @@ SOC analyst (L1) in Hyderabad. I work the alert queue by day and build attack la
 
 ## How I work
 
-| Role | Method |
-|---|---|
-| SOC | Alert, context, evidence, investigation, correlation, verdict, action, documentation |
-| Pentest | Recon, enumeration, attack surface, vulnerability, validation, exploitation, impact, evidence, remediation, report |
+<img src="assets/process.png" alt="Two timelines. SOC: alert, context, evidence, investigation, correlation, verdict, action, documentation. Pentest: recon, enumeration, attack surface, vulnerability, validation, exploitation, impact, evidence, remediation, report. Evidence is marked in yellow in both." width="100%">
 
-The report is the product. A finding is only finished when someone else can reproduce it and fix it.
+<details>
+<summary>Read the steps as text</summary>
+
+**SOC:** alert, context, evidence, investigation, correlation, verdict, action, documentation.
+
+**Pentest:** recon, enumeration, attack surface, vulnerability, validation, exploitation, impact, evidence, remediation, report.
+
+</details>
+
+The yellow marker is the step I do not skip: evidence. The report is the product, and a finding is only finished when someone else can reproduce it and fix it.
 
 ## Selected work
 
-| Project | What it is | Where |
-|---|---|---|
-| Active Directory attack lab | Windows Server domain controller, Windows client and Kali attacker with deliberate misconfigurations: roastable accounts, unconstrained delegation, GenericAll ACL abuse, a delegated GPO and an ADCS ESC1 template. Used to practise attack paths up to DCSync and to write a pentest report. | Local lab |
-| Web application pentest lab | DVWA assessments with Burp Suite, SQLMap and OWASP ZAP covering SQL injection, XSS and broken authentication, with CVSS-rated findings and remediation. | Local lab |
-| Android pentest lab | Built at GBB. Kali on Proxmox, ADB, MobSF, JADX and Burp Suite for static and dynamic APK analysis: insecure storage, exported components, hardcoded secrets, authentication and API flaws. | Local lab |
-| Recon framework | Python framework combining passive OSINT and active network modules. | In progress |
-| Network intrusion detection prototypes | Three experiments: a Flask and Scapy dashboard with a Random Forest, a Streamlit prototype with rule-based scoring and Gemini explanations, and a PyTorch LSTM-DQN agent. The README lists the limitations. | [NTF-IDS](https://github.com/chandureddy-sec/Network-Traffic-Filtering-Intrusion-Detection-System-NTF-IDS-) |
-| Portfolio site | One static page, self-hosted fonts, no trackers. | [chandureddy-sec.github.io](https://github.com/chandureddy-sec/chandureddy-sec.github.io) |
+- **Active Directory attack lab** <code>Local&nbsp;lab</code><br>
+  Windows Server domain controller, Windows client and Kali attacker with deliberate misconfigurations: roastable accounts, unconstrained delegation, GenericAll ACL abuse, a delegated GPO and an ADCS ESC1 template. Used to practise attack paths up to DCSync and to write a pentest report.
+- **Web application pentest lab** <code>Local&nbsp;lab</code><br>
+  DVWA assessments with Burp Suite, SQLMap and OWASP ZAP covering SQL injection, XSS and broken authentication, with CVSS-rated findings and remediation.
+- **Android pentest lab** <code>Local&nbsp;lab</code><br>
+  Built at GBB. Kali on Proxmox, ADB, MobSF, JADX and Burp Suite for static and dynamic APK analysis: insecure storage, exported components, hardcoded secrets, authentication and API flaws.
+- **Recon framework** <code>In&nbsp;progress</code><br>
+  Python framework combining passive OSINT and active network modules.
+- **[Network intrusion detection prototypes](https://github.com/chandureddy-sec/Network-Traffic-Filtering-Intrusion-Detection-System-NTF-IDS-)** <code>Public&nbsp;repo</code><br>
+  Three experiments: a Flask and Scapy dashboard with a Random Forest, a Streamlit prototype with rule-based scoring and Gemini explanations, and a PyTorch LSTM-DQN agent. The README lists the limitations.
+- **[Portfolio site](https://chandureddy-sec.github.io)** <code>Live</code><br>
+  One static page, self-hosted fonts, no trackers.
 
 ## Toolbox
 
-**Testing:** Burp Suite, SQLMap, OWASP ZAP, Nmap, Nessus, Metasploit, BloodHound, Hashcat, John the Ripper, MobSF, JADX, ADB
-**Detection and analysis:** EDR and SIEM triage, log analysis, Wireshark, MITRE ATT&CK
-**Building:** Python, Bash, Scapy, Flask, Streamlit, scikit-learn, Git
-**Environment:** Kali Linux, Windows Server, Proxmox, VirtualBox, VMware
-**Method:** PTES, OWASP Testing Guide, OWASP Top 10, CVSS
+| Area | Tools |
+|---|---|
+| **Testing** | `Burp Suite` `SQLMap` `OWASP ZAP` `Nmap` `Nessus` `Metasploit` `BloodHound` `Hashcat` `John the Ripper` `MobSF` `JADX` `ADB` |
+| **Detection and analysis** | `EDR and SIEM triage` `Log analysis` `Wireshark` `MITRE ATT&CK` |
+| **Building** | `Python` `Bash` `Scapy` `Flask` `Streamlit` `scikit-learn` `Git` |
+| **Environment** | `Kali Linux` `Windows Server` `Proxmox` `VirtualBox` `VMware` |
+| **Method** | `PTES` `OWASP Testing Guide` `OWASP Top 10` `CVSS` |
 
 ## Background
 
@@ -48,6 +57,4 @@ The report is the product. A finding is only finished when someone else can repr
 - **Ethical hacking hackathon**, Supraja Technologies (2025): live VAPT on web applications and network services, report delivered during the event
 - **Google Cybersecurity Certificate** (Coursera)
 
-## Principles
-
-I only test systems I own or have written permission to test.
+> I only test systems I own or have written permission to test.
